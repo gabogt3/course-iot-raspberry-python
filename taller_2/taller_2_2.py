@@ -35,8 +35,8 @@ salida.off()
 
 #from arduino_iot_cloud import ArduinoCloudClient
 #obtenido en la creación de la cosa en Arduino Cloud
-DEVICE_ID =                                         b"bb65d7a2-8328-4cff-9a45-a4e534e4380b"
-SECRET_KEY =                                        b"WTE9BJ4YBRXZ7EJE0DOX"
+DEVICE_ID = b"bbxxxxxxx-xxxx-xxxx-xxxx-xxxxxxx"
+SECRET_KEY = b"XXXXXXXXXXXXXXXXXXX"
 
 def logging_func():
     logging.basicConfig(
